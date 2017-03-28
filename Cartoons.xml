@@ -1,0 +1,104 @@
+<?xml version="1.0"?><!DOCTYPE Captions SYSTEM "Cartoons.dtd"><!--<!DOCTYPE Captions SYSTEM "Cartoons.dtd"-->
+<Captions description="Caption data of test.avi" noOfCaptions="9" version="0.1" videoFileName="test.avi">
+
+	<Caption captionNo="0" fontstyle="Arial">
+		<Sync>
+			<start>13300</start>
+			<end>14200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Hey... Where are you going</content>
+		</font>
+	</Caption>
+
+	<Caption captionNo="1" fontstyle="Arial">
+		<Sync>
+			<start>14200</start>
+			<end>15200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Hello??? We live in the real world!</content>
+		</font>
+	</Caption>
+	<Caption captionNo="2" fontstyle="Arial">
+		<Sync>
+			<start>16500</start>
+			<end>17300</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Ok.. easy easy... Take it easy..</content>
+		</font>
+	</Caption>
+	<Caption captionNo="3" fontstyle="Arial">
+		<Sync>
+			<start>17500</start>
+			<end>18800</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Do you think it is that easy?</content>
+		</font>
+	</Caption>
+	<Caption captionNo="4" fontstyle="Arial">
+		<Sync>
+			<start>19000</start>
+			<end>20200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Don't worry.. Just don't.</content>
+		</font>
+	</Caption>
+	<Caption captionNo="5" fontstyle="Arial">
+		<Sync>
+			<start>20300</start>
+			<end>22200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>Okay. I will take it easy.</content>
+		</font>
+	</Caption>
+	<Caption captionNo="6" fontstyle="Arial">
+		<Sync>
+			<start>23300</start>
+			<end>24200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>but Just on one condition</content>
+		</font>
+	</Caption>
+	<Caption captionNo="7" fontstyle="Arial">
+		<Sync>
+			<start>24200</start>
+			<end>25200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>What is it?</content>
+		</font>
+	</Caption>
+	<Caption captionNo="8" fontstyle="Arial">
+		<Sync>
+			<start>26300</start>
+			<end>27200</end>
+		</Sync>
+		<font>
+			<location>5</location>
+			<size>15</size>
+			<content>You have to give me a happily married life.</content>
+		</font>
+	</Caption>
+</Captions>

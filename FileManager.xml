@@ -1,0 +1,35 @@
+<Videos>
+<Video videoFileName="C:\Documents and Settings\Owner\Desktop\CartoonMaker\hh.avi" extension="avi" title="C:\Documents and Settings\Owner\Desktop\CartoonMaker\hh.avi">
+<genre>drama</genre>
+<rating>4</rating>
+<user_rating>5</user_rating>
+<summary>This is totally a blast!</summary>
+<details>The setting : The medieval</details>
+<year>1993</year>
+<director>Jack Nicolson</director>
+<studio>Paramount</studio>
+<runtime>128</runtime>
+</Video>
+<Video videoFileName="C:\Documents and Settings\Owner\Desktop\CartoonMaker\sunrise.bmp" extension="bmp" title="C:\Documents and Settings\Owner\Desktop\CartoonMaker\sunrise.bmp">
+<genre>drama</genre>
+<rating>4</rating>
+<user_rating>5</user_rating>
+<summary>This is totally a blast!</summary>
+<details>The setting : The medieval</details>
+<year>1993</year>
+<director>Jack Nicolson</director>
+<studio>Paramount</studio>
+<runtime>128</runtime>
+</Video>
+<Video videoFileName="C:\Documents and Settings\Owner\Desktop\CartoonMaker\TEST.PNG" extension="PNG" title="C:\Documents and Settings\Owner\Desktop\CartoonMaker\TEST.PNG">
+<genre>drama</genre>
+<rating>4</rating>
+<user_rating>5</user_rating>
+<summary>This is totally a blast!</summary>
+<details>The setting : The medieval</details>
+<year>1993</year>
+<director>Jack Nicolson</director>
+<studio>Paramount</studio>
+<runtime>128</runtime>
+</Video>
+</Videos>

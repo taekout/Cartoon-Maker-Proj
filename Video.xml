@@ -1,0 +1,29 @@
+<?xml version="1.0"?><!DOCTYPE Videos SYSTEM "Videos.dtd">
+<Videos>
+
+  <Video videoFileName="Atonement.avi"  extension="AVI" title="Atonement">
+    <genre>drama</genre>
+    <rating>4</rating>
+    <user_rating>5</user_rating>
+    <summary>This is a total blast!</summary>
+    <details>The setting is.. The story goes this way.</details>
+    <year>1993</year>
+    <director>Jack Nicolson</director>
+    <studio>Paramount</studio>
+    <runtime>128</runtime>
+  </Video>
+
+  <Video videoFileName="Atonement.avi"  extension="AVI" title="Atonement">
+    <genre>drama</genre>
+    <rating>4</rating>
+    <user_rating>5</user_rating>
+    <summary>This is a total blast!</summary>
+    <details>The setting is.. The story goes this way.</details>
+    <year>1993</year>
+    <director>Jack Nicolson</director>
+    <studio>Paramount</studio>
+    <runtime>128</runtime>
+  </Video>
+
+</Videos>
+

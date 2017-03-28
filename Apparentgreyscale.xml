@@ -1,0 +1,17 @@
+<?xml version="1.0"?><!DOCTYPE ApparentGreyscale SYSTEM "ApparentGreyscale.dtd">
+<ApparentGreyscale version="0.1" filename="TestBMP.bmp" description="Nothing">
+  <whitepoint_x/>
+  <whitepoint_y/>
+  <whitepoint_z/>
+  <filename>TestBMP.bmp</filename>
+  <maximumDepth>4</maximumDepth>
+  <amplifier>
+    <amplifier1>0.1</amplifier1>
+    <amplifier2>0.3</amplifier2>
+    <amplifier3>0.5</amplifier3>
+    <amplifier4>0.6</amplifier4>
+    <finalAmplifier>0.8</finalAmplifier>
+    <colorspace>RGB</colorspace>
+  </amplifier>
+</ApparentGreyscale>
+
